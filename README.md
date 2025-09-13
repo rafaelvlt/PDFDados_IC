@@ -1,9 +1,10 @@
 # PDFDados_IC
 
-This repository contains reports from [VirusTotal](https://www.virustotal.com/) about PDF files, organized into categories to facilitate phishing threat analysis.
+This repository contains reports from [VirusTotal](https://www.virustotal.com/) about PDF files, organized into categories to facilitate malware threat analysis.
 
 
 ## Repository Structure
+- **`benign/`** - PDFs without any malicious code.
 - **`phish/`** – PDFs categorized as phishing.
 - **`excecoes/`** – PDFs analyzed with no mention of phishing.
 
